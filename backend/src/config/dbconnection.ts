@@ -9,7 +9,7 @@ export default app;
 dotenv.config();
 
 // const MONGO_URI = "mongodb+srv://butong1234:1234@http://cluster0.f0ptkpt.mongodb.net/Cluster0?retryWrites=true&w=majority";
-const MONGO_URI = "mongodb+srv://davedalimocon:1234@cluster0.ypbqg.mongodb.net/?retryWrites=true&w=majority";
+const MONGO_URI = "mongodb+srv://dixiemolleda:wFT5M9QWazKu2-k@cluster0.gcfngyh.mongodb.net/?retryWrites=true&w=majority";
 
 
 // DATABASE CONNECTION
